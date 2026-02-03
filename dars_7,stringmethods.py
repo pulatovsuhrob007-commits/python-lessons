@@ -1,7 +1,7 @@
 # 1.capitalize()-birinchi harfni katta harfga aylantiradi
-# tekst = "bu mening birinchi topshirig'im."
-# x = tekst.capitalize()
-# print(x)
+tekst = "bu mening birinchi topshirig'im."
+x = tekst.capitalize()
+print(x)
 # 2.casefold()- har bitta harfni kichraytiradi
 # tekst = "I lovE Banana!"
 # y = tekst.casefold()
